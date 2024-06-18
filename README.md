@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arsh360
 - 👀 I’m interested in coding 
-- 🌱 I’m currently pursuing B.Tech in CSE department
+- 🌱 I’m a B.Tech grasuate in CSE department
 - 💞️ I’m looking to collaborate on software devlopment projects
 - Reach me at arshalikhan960@gmail.com
